@@ -1,40 +1,45 @@
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+# Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-<h3> 👨🏻‍💻 About Me </h3>
+I am a 22 year old Engineer from India who loves space and exoplanets. I am currently working at ZS Associates as a Business Technology Analyst, working on client centered data solutions. I am passionate about doing research in Computational Astrophysics.
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
+  
+<details>
+  <summary><i> Click <b> Here </b> to enter the Warp Speed and know more about my universe! </i>
+<p align="center">  
+  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
+</p> </summary>  
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+- 🌌 I’m currently working at [ZS Associates](https://www.zs.com) as a Business Technology Analyst
+- 🔭 I’m currently learning __Astrophysics__
+- 👯 I’m looking to collaborate on any projects related to (but not limited to) astrophysics, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
+- ✨ Pronouns: He/him
+- 🛸 Fun fact: I can code without coffee
+- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Piano, Guitar and Singing), watching Anime, connecting with people, cooking and doodling
+
+![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanchawla&show_icons=true&hide_border=true)
+
+We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/chetan-chawla">
+  <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
+<a href="https://www.twitter.com/chetan_chawla_">
+  <img align="right" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
+<a href="mailto:chetanchawlacc4@gmail.com">
+  <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+</details>
+
+<p align="center">
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+</p>
+
+### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
