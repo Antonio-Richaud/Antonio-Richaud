@@ -1,77 +1,61 @@
-# 👋🏻 Hey,
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+### Hi there, I'm Vineet 👋
 
-# I am Hrishikesh , HRISHIKESH-CODER . 
-## I am a programmer
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
-- <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30>  I also like AWS, Amazon Web Services<br>
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
+## I'm an Engineer, a Data Scientist, and Life Long Learner!
+- 🔭 I’m currently working on a Time Series Forecasting Project!
+- 🌱 I’m currently Learning everything.
+- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
+- ⚡ Fun fact: I love to bingewatch movies and play sports.
 
-## My Tech Stack
+---
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
 
-  </tbody>
-</table>
+### 🤝 Connect with me:
+![](https://komarev.com/ghpvc/?username=jha-vineet69&color=7957d5)
 
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=hrishikesh-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+
+[<img align="left" alt="jha-vineet69 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+
+[<img align="left" alt="jha-vineet69 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
+
 <br>
 
-  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
-    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:hrishipotter123@gmail.com">
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
+---
+
+### 👨‍💻 Languages and Tools:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="80" src="https://jupyter.org/assets/nav_logo.svg"></code>
+<code><img height="40" width="80" src="https://raw.githubusercontent.com/logo/Tableau/master/images/logo.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
 <br>
 
-![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
+---
 
-<br><br><br><br>
+### 📘 Latest Blog Posts:
+- [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
+- [How to Lie with Statistics](https://spotle.ai/feeddetails/How-To-Lie-With-Statistics/7452)
+- [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
+- [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
 
-# THAT'S ME !
+---
 
-⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
+### 🏆 Github Stats:
+
+<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+
+<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+
+
+[linkedin]: https://www.linkedin.com/in/jha-vineet/
+[gmail]: mailto:vineetjha3388@gmail.com
+[leetcode]: https://leetcode.com/vineet_jha/
+
+⭐️ From [Vineet Jha](https://github.com/jha-vineet69)
