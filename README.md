@@ -42,7 +42,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 [![HTML5](https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/02-html.html)
 [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/03-css.html)
 ![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![Threejs](https://img.shields.io/badge/-Three.js-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)
+[![Threejs](https://img.shields.io/badge/-Three.js-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud-threejs-portafolio.vercel.app/)
 [![REACT](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/04-react.html)
 <br>
 <br>
@@ -84,11 +84,8 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 **Cloud**
 
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-grey?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)
-
 ![AZURE](https://img.shields.io/badge/-Azure-grey?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=8E2DE2)
-
 ![GCP](https://img.shields.io/badge/-GCP-grey?style=for-the-badge&logo=google%20cloud&logoColor=white&labelColor=8E2DE2)
-
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
@@ -104,8 +101,8 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 ![ROS](https://img.shields.io/badge/-ROS-grey?style=for-the-badge&logo=ROS&logoColor=white&labelColor=8E2DE2)
 ![Proteus](https://img.shields.io/badge/-Proteus-grey?style=for-the-badge&logo=proteus&logoColor=white&labelColor=8E2DE2)
 ![Raspberry pi](https://img.shields.io/badge/-Raspberry%20pi-grey?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E2DE2)
-![Jetson](https://img.shields.io/badge/-Jetson-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)
-![Arduino](https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)
+[![Jetson](https://img.shields.io/badge/-Jetson-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7043163977257438470)
+[![Arduino](https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7049363148213685509)
 
 <h4 align="center">Contador de visitantes 👀 </h4>
 
