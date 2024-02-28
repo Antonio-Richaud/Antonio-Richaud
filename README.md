@@ -49,11 +49,6 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
-<img src="https://github-readme-stats.vercel.app/api?username=antonio-richaud&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-richaud&theme=radical&title_color=8E2DE2&text_color=fff)
-
-
 <h4 align="center">Contador de visitantes 👀 </h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/antonio-richaud%7D/count.svg" alt="Antonio Richaud :: Contador de visitas" /></p>
