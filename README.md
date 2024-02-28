@@ -29,79 +29,113 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 **Lenguajes de programación**
 
 ![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=8E2DE2)
+
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+
 ![kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
+
 ![GO](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
+
 ![Typescript](https://img.shields.io/badge/-typescrript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
+
 ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=r&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+
 ![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+
 ![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
+
 ![Threejs](https://img.shields.io/badge/-Three.js-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)
+
 ![REACT](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Back-end**
 
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)
-![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
+
+[![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/19-docker.html)
+
 ![NODEJS](https://img.shields.io/badge/-Node.JS-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
+
 ![Django](https://img.shields.io/badge/-DJango-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=8E2DE2)
+
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Herramientas y Tecnologías**
 
 ![GraphQL](https://img.shields.io/badge/-GRAPHQL-grey?style=for-the-badge&logo=GRAPHQL&logoColor=white&labelColor=8E2DE2)
+
 ![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=postman&logoColor=white&labelColor=8E2DE2)
+
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Bases de Datos**
 
 ![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
+
 ![oracle](https://img.shields.io/badge/-Oracle-grey?style=for-the-badge&logo=oracle&logoColor=white&labelColor=8E2DE2)
+
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+
 ![SAP](https://img.shields.io/badge/-sap-grey?style=for-the-badge&logo=sap&logoColor=white&labelColor=8E2DE2)
+
 ![SalesForce](https://img.shields.io/badge/-salesforce-grey?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Inteligencia Artificial**
 
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)
+
 ![Pytorch](https://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)
+
 ![OpenCV](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)
+
 ![ChatGPT](https://img.shields.io/badge/-chatgpt-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Cloud**
 
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-grey?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)
+
 ![AZURE](https://img.shields.io/badge/-Azure-grey?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=8E2DE2)
+
 ![GCP](https://img.shields.io/badge/-GCP-grey?style=for-the-badge&logo=google%20cloud&logoColor=white&labelColor=8E2DE2)
+
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Diseño**
 
 ![Adobe](https://img.shields.io/badge/-Adobe%20Suite-grey?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=8E2DE2)
+
 ![Blender](https://img.shields.io/badge/-Blender-grey?style=for-the-badge&logo=blender&logoColor=white&labelColor=8E2DE2)
+
 ![Figma](https://img.shields.io/badge/-Figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
 **Robótica y Electrónica**
 
 ![ROS](https://img.shields.io/badge/-ROS-grey?style=for-the-badge&logo=ROS&logoColor=white&labelColor=8E2DE2)
+
 ![Proteus](https://img.shields.io/badge/-Proteus-grey?style=for-the-badge&logo=proteus&logoColor=white&labelColor=8E2DE2)
+
 ![Raspberry pi](https://img.shields.io/badge/-Raspberry%20pi-grey?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E2DE2)
+
 ![Jetson](https://img.shields.io/badge/-Jetson-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)
+
 ![Arduino](https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)
 
 <h4 align="center">Contador de visitantes 👀 </h4>
