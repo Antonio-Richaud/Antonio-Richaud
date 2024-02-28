@@ -1,4 +1,4 @@
- # Hola, Soy <a href="https://www.linkedin.com/in/ashwanisng/">Antonio Richaud</a> 🇲🇽🤠
+ # Hola, Soy <a href="#">Antonio Richaud</a> 🇲🇽🤠
  
 <p align="center">
   <img src="https://imgur.com/nuQbn48.gif" width="100%" title="Intro Card" alt="Intro Card">
