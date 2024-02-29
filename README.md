@@ -28,7 +28,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 
 **Lenguajes de programación**
 
-![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=8E2DE2)
+[![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=8E2DE2)](https://www.php.net/)
 [![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/17-Python.html)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/01-js.html)
 ![kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
