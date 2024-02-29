@@ -41,7 +41,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 
 [![HTML5](https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/02-html.html)
 [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/03-css.html)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
+[![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)](https://materializecss.com/)
 [![Threejs](https://img.shields.io/badge/-Three.js-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud-threejs-portafolio.vercel.app/)
 [![REACT](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/04-react.html)
 <br>
