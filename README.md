@@ -48,7 +48,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 <br>
 **Back-end**
 
-![LARAVEL](https://img.shields.io/badge/-LARAVEL-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)
+[![LARAVEL](https://img.shields.io/badge/-LARAVEL-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)](https://laravel.com/)
 [![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/19-docker.html)
 [![NODEJS](https://img.shields.io/badge/-Node.JS-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/14-node-js.html)
 ![Django](https://img.shields.io/badge/-DJango-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=8E2DE2)
