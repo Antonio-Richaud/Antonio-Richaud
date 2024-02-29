@@ -100,7 +100,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 
 ![ROS](https://img.shields.io/badge/-ROS-grey?style=for-the-badge&logo=ROS&logoColor=white&labelColor=8E2DE2)
 ![Proteus](https://img.shields.io/badge/-Proteus-grey?style=for-the-badge&logo=proteus&logoColor=white&labelColor=8E2DE2)
-![Raspberry pi](https://img.shields.io/badge/-Raspberry%20pi-grey?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E2DE2)
+[![Raspberry pi](https://img.shields.io/badge/-Raspberry%20pi-grey?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E2DE2)](https://www.raspberrypi.com/)
 [![Jetson](https://img.shields.io/badge/-Jetson-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7043163977257438470)
 [![Arduino](https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7049363148213685509)
 
