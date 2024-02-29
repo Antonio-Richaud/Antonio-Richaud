@@ -58,7 +58,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 **Herramientas y Tecnologías**
 
 [![GraphQL](https://img.shields.io/badge/-GRAPHQL-grey?style=for-the-badge&logo=GRAPHQL&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/16-graphql.html)
-![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=postman&logoColor=white&labelColor=8E2DE2)
+[![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=postman&logoColor=white&labelColor=8E2DE2)](https://www.postman.com/)
 [![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/08-github.html)
 [![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/07-git.html)
 <br>
