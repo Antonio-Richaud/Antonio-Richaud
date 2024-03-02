@@ -70,7 +70,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 [![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/23-mongodb.html)
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![SAP](https://img.shields.io/badge/-sap-grey?style=for-the-badge&logo=sap&logoColor=white&labelColor=8E2DE2)
-![SalesForce](https://img.shields.io/badge/-salesforce-grey?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=8E2DE2)
+[![SalesForce](https://img.shields.io/badge/-salesforce-grey?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=8E2DE2)](https://www.salesforce.com/mx/?ir=)
 <br>
 <br>
 **Inteligencia Artificial**
