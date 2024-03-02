@@ -77,7 +77,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)
-![OpenCV](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)](https://medium.com/@antonio-richaud/el-poder-de-la-inteligencia-artificial-y-el-procesamiento-de-im%C3%A1genes-construyendo-el-futuro-con-65d2e70f4cbf)
 [![ChatGPT](https://img.shields.io/badge/-chatgpt-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
 <br>
 <br>
