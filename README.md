@@ -83,7 +83,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 <br>
 **Cloud**
 
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-grey?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)
+[![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-grey?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)](https://www.digitalocean.com/)
 [![AZURE](https://img.shields.io/badge/-Azure-grey?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=8E2DE2)](https://azure.microsoft.com/es-mx/)
 [![GCP](https://img.shields.io/badge/-GCP-grey?style=for-the-badge&logo=google%20cloud&logoColor=white&labelColor=8E2DE2)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon&logoColor=white&labelColor=8E2DE2)](https://aws.amazon.com/es/)
