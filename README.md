@@ -37,6 +37,14 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=r&logoColor=white&labelColor=8E2DE2)
 <br>
 <br>
+**Ciencia de datos**
+
+[![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
+[![NumPy](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
+[![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=8E2DE2)](https://jupyter.org/)
+[![SciKitLearn](https://img.shields.io/badge/SciKit-grey?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=8E2DE2)](https://jupyter.org/)
+<br>
+<br>
 **Front-end**
 
 [![HTML5](https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/02-html.html)
