@@ -42,7 +42,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 [![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
 [![NumPy](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
 [![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=8E2DE2)](https://jupyter.org/)
-[![SciKitLearn](https://img.shields.io/badge/SciKit-grey?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=8E2DE2)](https://jupyter.org/)
+[![SciKitLearn](https://img.shields.io/badge/SciKit-grey?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=8E2DE2)](https://scikit-learn.org/stable/getting_started.html)
 <br>
 <br>
 **Front-end**
@@ -86,7 +86,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 [![TensorFlow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)](https://www.tensorflow.org/?hl=es)
 [![Pytorch](https://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)](https://medium.com/@antonio-richaud/el-poder-de-la-inteligencia-artificial-y-el-procesamiento-de-im%C3%A1genes-construyendo-el-futuro-con-65d2e70f4cbf)
-[![ChatGPT](https://img.shields.io/badge/-chatgpt-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
+[![GPT](https://img.shields.io/badge/-chatgpt-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
 <br>
 <br>
 **Cloud**
