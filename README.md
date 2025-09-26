@@ -86,7 +86,7 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 [![TensorFlow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)](https://www.tensorflow.org/?hl=es)
 [![Pytorch](https://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)](https://medium.com/@antonio-richaud/el-poder-de-la-inteligencia-artificial-y-el-procesamiento-de-im%C3%A1genes-construyendo-el-futuro-con-65d2e70f4cbf)
-[![GPT](https://img.shields.io/badge/-GPT-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
+[![ChatGPT](https://img.shields.io/badge/-GPT-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
 <br>
 <br>
 **Cloud**
@@ -99,7 +99,6 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 <br>
 **Diseño**
 
-[![Adobe](https://img.shields.io/badge/-Adobe%20Suite-grey?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=8E2DE2)](https://www.adobe.com/es/)
 [![Blender](https://img.shields.io/badge/-Blender-grey?style=for-the-badge&logo=blender&logoColor=white&labelColor=8E2DE2)](https://www.blender.org/)
 [![Figma](https://img.shields.io/badge/-Figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)](https://www.figma.com/)
 <br>
