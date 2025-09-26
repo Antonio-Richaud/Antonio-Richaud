@@ -111,9 +111,6 @@ Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de soft
 [![Jetson](https://img.shields.io/badge/-Jetson-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7043163977257438470)
 [![Arduino](https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7049363148213685509)
 
-<h4 align="center">Contador de visitantes 👀 </h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/antonio-richaud%7D/count.svg" alt="Antonio Richaud :: Contador de visitas" /></p>
 
 ---
 
