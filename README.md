@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a href="https://antonio-richaud.com/">Antonio Richaud</a> 🇲🇽🤠</h1>
 
 <p align="center">
-  Ingeniero en Electrónica · Software & Web Developer · Data Science & IA
+  Ingeniero en electrónica · Software & Web Developer · Data Science & IA
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 | Repo | Descripción | Stack principal |
 | ---- | ----------- | --------------- |
 | 🤖 [**Inteligencia Artificial**](https://github.com/Antonio-Richaud/Inteligencia-Artificial) | Modelos, prototipos y experimentos de IA: visión artificial, redes neuronales y proyectos con GPUs/Jetson. | Python · TensorFlow · PyTorch · OpenCV |
-| 📊 [**Data Science**](https://github.com/Antonio-Richaud/Data-Science) | Proyectos de análisis de datos, series de tiempo, trading algorítmico y datasets del mundo real. | Python · Pandas · NumPy · Jupyter · scikit-learn |
-| 📟 [**Calculadora TI-83 Plus**](https://github.com/Antonio-Richaud/Calculadora-TI-83-Plus) | Programas para exprimir la TI-83 Plus en mates, física y utilidades varias. | TI-BASIC · Algoritmos numéricos |
-| 🌐 [**Proyectos (Hub)**](https://github.com/Antonio-Richaud/Proyectos) | Hub tipo linktree-dev con más proyectos, demos, webs y experimentos. | HTML · JS · Enlaces externos |
+| 📊 [**Data Science**](https://github.com/Antonio-Richaud/Data-Science) | Proyectos de análisis de datos, series de tiempo, trading algorítmico y datasets inteeresantes. | Python · Pandas · NumPy · Jupyter · scikit-learn |
+| 📟 [**Calculadora TI-83 Plus**](https://github.com/Antonio-Richaud/Calculadora-TI-83-Plus) | Programas para exprimir la TI-83 Plus. | TI-BASIC · Algoritmos numéricos |
+| 🌐 [**Proyectos (Hub)**](https://github.com/Antonio-Richaud/Proyectos) | Hub con proyectos, demos, webs y experimentos. | Tecnología variada |
 
 </div>
 
@@ -37,14 +37,11 @@ Soy un Ingeniero en Electrónica enfocado en:
 - Ciencia de datos y análisis avanzado  
 - Inteligencia artificial y algoritmos complejos  
 
-Mi objetivo es construir soluciones que resuelvan problemas empresariales reales y crear proyectos tecnológicos que le hagan la vida más fácil a las personas.
+Mi objetivo es construir soluciones que resuelvan problemas empresariales reales y crear proyectos tecnológicos para distintos fines.
 
 **Ahora mismo:**
 
-- Trabajando en proyectos de **Visión Artificial, Realidad Aumentada, Desarrollo de Software y Desarrollo Web**.  
-
- 
-- Buscando colaborar principalmente en proyectos de **Desarrollo de Software y Desarrollo Web**.  
+- Trabajando en proyectos de **Visión artificial, inteligencia artifial, desarrollo de software y desarrollo web**.  
 - Puedo ayudarte con: **Full Stack**, **Cloud Computing**, **Inteligencia Artificial** y tecnología en general.  
 
 ---
@@ -73,9 +70,9 @@ Mi objetivo es construir soluciones que resuelvan problemas empresariales reales
 
 ---
 
-<h2 align="center">🧰 Tech Stack / Habilidades</h2>
+<h2 align="center">Tech Stack / Habilidades</h2>
 <p align="center">
-  <sub>Da clic en cada categoría para ver las herramientas.</sub>
+  <sub>Da clic en cada categoría para ver las herramientas. :)</sub>
 </p>
 
 <details>
@@ -213,8 +210,7 @@ Mi objetivo es construir soluciones que resuelvan problemas empresariales reales
 </a>
 
 <p>
-  <sub>Lo que entra aquí se reinvierte en proyectos de código abierto, infraestructura y contenido educativo.  
-  O en unos taquitos, siendo honestos 🌮.</sub>
+  <sub>Lo que entra aquí se reinvierte en proyectos de código abierto, infraestructura y contenido educativo.</sub>
 </p>
 
 </div>
