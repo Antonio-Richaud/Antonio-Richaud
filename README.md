@@ -20,10 +20,10 @@
 
 | Repo | Descripción | Stack principal |
 | ---- | ----------- | --------------- |
-| 🤖 [**Inteligencia Artificial**](https://github.com/Antonio-Richaud/Inteligencia-Artificial) | Modelos, prototipos y experimentos de IA: visión artificial, redes neuronales y proyectos con GPUs/Jetson. | Python · TensorFlow · PyTorch · OpenCV |
-| 📊 [**Data Science**](https://github.com/Antonio-Richaud/Data-Science) | Proyectos de análisis de datos, series de tiempo, trading algorítmico y datasets inteeresantes. | Python · Pandas · NumPy · Jupyter · scikit-learn |
-| 📟 [**Calculadora TI-83 Plus**](https://github.com/Antonio-Richaud/Calculadora-TI-83-Plus) | Programas para exprimir la TI-83 Plus. | TI-BASIC · Algoritmos numéricos |
-| 🌐 [**Proyectos (Hub)**](https://github.com/Antonio-Richaud/Proyectos) | Hub con proyectos, demos, webs y experimentos. | Tecnología variada |
+|[**Inteligencia Artificial**](https://github.com/Antonio-Richaud/Inteligencia-Artificial) | Modelos, prototipos y experimentos de IA: visión artificial, redes neuronales y proyectos con GPUs/Jetson. | Python · TensorFlow · PyTorch · OpenCV |
+|[**Data Science**](https://github.com/Antonio-Richaud/Data-Science) | Proyectos de análisis de datos, series de tiempo, trading algorítmico y datasets inteeresantes. | Python · Pandas · NumPy · Jupyter · scikit-learn |
+|[**Calculadora TI-83 Plus**](https://github.com/Antonio-Richaud/Calculadora-TI-83-Plus) | Programas para exprimir la TI-83 Plus. | TI-BASIC · Algoritmos numéricos |
+|[**Proyectos (Hub)**](https://github.com/Antonio-Richaud/Proyectos) | Hub con proyectos, demos, webs y experimentos. | Tecnología variada |
 
 </div>
 
@@ -199,7 +199,7 @@ Mi objetivo es construir soluciones que resuelvan problemas empresariales reales
 
 <!-- Reemplaza # con tus enlaces reales a Patreon / PayPal / BuyMeACoffee / Ko-fi -->
 
-<a href="#" target="_blank">
+<a href="https://patreon.com/AntonioRichaud?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank">
   <img width="20%" alt="Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
 </a>
 <a href="#" target="_blank">
