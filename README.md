@@ -205,7 +205,7 @@ Mi objetivo es construir soluciones que resuelvan problemas empresariales reales
 <a href="#" target="_blank">
   <img width="20%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://ko-fi.com/antoniorichaud" target="_blank">
   <img width="20%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
 </a>
 
