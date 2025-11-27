@@ -1,140 +1,232 @@
- # Hola, Soy <a href="https://antonio-richaud.com/">Antonio Richaud</a> 🇲🇽🤠
+<h1 align="center">Hola, soy <a href="https://antonio-richaud.com/">Antonio Richaud</a> 🇲🇽🤠</h1>
 
-Soy un apasionado Ingeniero en Electrónica, especializado en desarrollo de software, desarrollo web, y análisis de datos. Con experiencia en inteligencia artificial, algoritmos complejos de análisis, y ciencia de datos, mi objetivo es diseñar soluciones innovadoras que resuelvan problemas empresariales complejos y hacer propuestas que mejoren la vida de las personas.
- 
- 🚀 Actualmente me encuentro trabajando en proyectos de **Visión Artificial, Realidad Aumentada, Desarrollo de Software y Desarrollo Web**.
- 
- 🌱 Actualmente estoy estudiando sobre <img src="http://img.shields.io/badge/-Keras-d92c16?style=flat&logo=keras&logoColor=white">
- 
-  📚 Actualmente estoy leyendo <a href="https://www.amazon.com.mx/%C2%BFSue%C3%B1an-los-androides-ovejas-el%C3%A9ctricas/dp/6070743601">¿Sueñan los androides con ovejas eléctricas?</a>
- 
- 👾 Estoy buscando colaborar principalmente en proyectos de **Desarrollo de Software y Desarrollo Web**.
- 
- 💬 Estoy aquí para ayudarte con cualquier pregunta que tengas sobre desarrollo Full Stack, Cloud Computing, Inteligencia Artificial y cualquier tema relacionado con tecnología. 
+<p align="center">
+  Ingeniero en Electrónica · Software & Web Developer · Data Science & IA
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-8E2DE2?style=for-the-badge&labelColor=1b1b1f">
+  <img src="https://img.shields.io/badge/IA%20%26%20Data-Science-8E2DE2?style=for-the-badge&labelColor=1b1b1f">
+  <img src="https://img.shields.io/badge/From-México-8E2DE2?style=for-the-badge&labelColor=1b1b1f">
+</p>
 
 ---
 
-**Conecta conmigo en alguna de mis redes sociales 🤓**
+## 🚀 Repos destacados
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-richaud/)
-[![X](https://img.shields.io/badge/-(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Antonio_Richaud)
-[![Youtube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AntonioRichaud/)
-[![TIKTOK](https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@antonio_richaud)
-[![Antonio-Richaud.com](https://img.shields.io/badge/-ANTONIORICHAUD.COM-8E2DE2?style=for-the-badge&logo=react&logoColor=white)](https://antonio-richaud.com/)
+<!-- Actualiza las URLs de los repos si cambias los nombres -->
 
----
+<div align="center">
 
-### Habilidades 
+| Repo | Descripción | Stack principal |
+| ---- | ----------- | --------------- |
+| 🤖 [**Inteligencia Artificial**](https://github.com/Antonio-Richaud/Inteligencia-Artificial) | Modelos, prototipos y experimentos de IA: visión artificial, redes neuronales y proyectos con GPUs/Jetson. | Python · TensorFlow · PyTorch · OpenCV |
+| 📊 [**Data Science**](https://github.com/Antonio-Richaud/Data-Science) | Proyectos de análisis de datos, series de tiempo, trading algorítmico y datasets del mundo real. | Python · Pandas · NumPy · Jupyter · scikit-learn |
+| 📟 [**Calculadora TI-83 Plus**](https://github.com/Antonio-Richaud/Calculadora-TI-83-Plus) | Programas para exprimir la TI-83 Plus en mates, física y utilidades varias. | TI-BASIC · Algoritmos numéricos |
+| 🌐 [**Proyectos (Hub)**](https://github.com/Antonio-Richaud/Proyectos) | Hub tipo linktree-dev con más proyectos, demos, webs y experimentos. | HTML · JS · Enlaces externos |
 
-**Lenguajes de programación**
-
-[![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=8E2DE2)](https://www.php.net/)
-[![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/17-Python.html)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
-![GO](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
-![Typescript](https://img.shields.io/badge/-typescrript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
-![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=r&logoColor=white&labelColor=8E2DE2)
-<br>
-<br>
-**Ciencia de datos**
-
-[![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
-[![NumPy](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
-[![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=8E2DE2)](https://jupyter.org/)
-[![SciKitLearn](https://img.shields.io/badge/SciKit-grey?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=8E2DE2)](https://scikit-learn.org/stable/getting_started.html)
-<br>
-<br>
-**Front-end**
-
-[![HTML5](https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/02-html.html)
-![CSS](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css&logoColor=white&labelColor=8E2DE2)
-[![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)](https://materializecss.com/)
-[![Threejs](https://img.shields.io/badge/-Three.js-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud-threejs-portafolio.vercel.app/)
-![REACT](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
-<br>
-<br>
-**Back-end**
-
-[![LARAVEL](https://img.shields.io/badge/-LARAVEL-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)](https://laravel.com/)
-[![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/19-docker.html)
-[![NODEJS](https://img.shields.io/badge/-Node.JS-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/14-node-js.html)
-![Django](https://img.shields.io/badge/-DJango-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-<br>
-<br>
-**Herramientas y Tecnologías**
-
-[![GraphQL](https://img.shields.io/badge/-GRAPHQL-grey?style=for-the-badge&logo=GRAPHQL&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/16-graphql.html)
-[![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=postman&logoColor=white&labelColor=8E2DE2)](https://www.postman.com/)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-<br>
-<br>
-**Bases de Datos**
-
-![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
-![oracle](https://img.shields.io/badge/-Oracle-grey?style=for-the-badge&logo=oracle&logoColor=white&labelColor=8E2DE2)
-[![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/23-mongodb.html)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-[![SAP](https://img.shields.io/badge/-sap-grey?style=for-the-badge&logo=sap&logoColor=white&labelColor=8E2DE2)](https://www.sap.com/latinamerica/about/what-is-sap.html)
-[![SalesForce](https://img.shields.io/badge/-salesforce-grey?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=8E2DE2)](https://www.salesforce.com/mx/?ir=)
-<br>
-<br>
-**Inteligencia Artificial**
-
-[![TensorFlow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)](https://www.tensorflow.org/?hl=es)
-[![Pytorch](https://img.shields.io/badge/-Pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)](https://pytorch.org/)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)](https://medium.com/@antonio-richaud/el-poder-de-la-inteligencia-artificial-y-el-procesamiento-de-im%C3%A1genes-construyendo-el-futuro-con-65d2e70f4cbf)
-[![ChatGPT](https://img.shields.io/badge/-GPT-grey?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
-<br>
-<br>
-**Cloud**
-
-[![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-grey?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)](https://www.digitalocean.com/)
-[![AZURE](https://img.shields.io/badge/-Azure-grey?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=8E2DE2)](https://azure.microsoft.com/es-mx/)
-[![GCP](https://img.shields.io/badge/-GCP-grey?style=for-the-badge&logo=google%20cloud&logoColor=white&labelColor=8E2DE2)](https://cloud.google.com/)
-[![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon&logoColor=white&labelColor=8E2DE2)](https://aws.amazon.com/es/)
-<br>
-<br>
-**Diseño**
-
-[![Blender](https://img.shields.io/badge/-Blender-grey?style=for-the-badge&logo=blender&logoColor=white&labelColor=8E2DE2)](https://www.blender.org/)
-[![Figma](https://img.shields.io/badge/-Figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)](https://www.figma.com/)
-<br>
-<br>
-**Robótica y Electrónica**
-
-[![ROS](https://img.shields.io/badge/-ROS-grey?style=for-the-badge&logo=ROS&logoColor=white&labelColor=8E2DE2)](https://www.ros.org/)
-[![Proteus](https://img.shields.io/badge/-Proteus-grey?style=for-the-badge&logo=proteus&logoColor=white&labelColor=8E2DE2)](https://www.labcenter.com/)
-[![Raspberry pi](https://img.shields.io/badge/-Raspberry%20pi-grey?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E2DE2)](https://www.raspberrypi.com/)
-[![Jetson](https://img.shields.io/badge/-Jetson-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7043163977257438470)
-[![Arduino](https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7049363148213685509)
-
+</div>
 
 ---
 
-##### Fun fact: Se puede resolver la pregunta más antigua del mundo con una sola línea de JavaScript.
+## 👨‍💻 Sobre mí
+
+Soy un Ingeniero en Electrónica enfocado en:
+
+- Desarrollo de software y desarrollo web  
+- Ciencia de datos y análisis avanzado  
+- Inteligencia artificial y algoritmos complejos  
+
+Mi objetivo es construir soluciones que resuelvan problemas empresariales reales y crear proyectos tecnológicos que le hagan la vida más fácil a las personas.
+
+**Ahora mismo:**
+
+- Trabajando en proyectos de **Visión Artificial, Realidad Aumentada, Desarrollo de Software y Desarrollo Web**.  
+
+ 
+- Buscando colaborar principalmente en proyectos de **Desarrollo de Software y Desarrollo Web**.  
+- Puedo ayudarte con: **Full Stack**, **Cloud Computing**, **Inteligencia Artificial** y tecnología en general.  
+
+---
+
+## 🌐 Conecta conmigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/antonio-richaud/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/Antonio_Richaud">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.youtube.com/@AntonioRichaud/">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.tiktok.com/@antonio_richaud">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://antonio-richaud.com/">
+  <img src="https://img.shields.io/badge/antonio--richaud.com-8E2DE2?style=for-the-badge&logo=react&logoColor=white" alt="Sitio web" />
+</a>
+
+</div>
+
+---
+
+<h2 align="center">🧰 Tech Stack / Habilidades</h2>
+<p align="center">
+  <sub>Da clic en cada categoría para ver las herramientas.</sub>
+</p>
+
+<details>
+<summary><b>Lenguajes de programación</b></summary>
+<br>
+
+[![PHP](https://img.shields.io/badge/PHP-1b1b1f?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-1b1b1f?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/17-Python.html)
+![JavaScript](https://img.shields.io/badge/JavaScript-1b1b1f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![Kotlin](https://img.shields.io/badge/Kotlin-1b1b1f?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
+![Go](https://img.shields.io/badge/Go-1b1b1f?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1b1f?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
+![R](https://img.shields.io/badge/R-1b1b1f?style=for-the-badge&logo=r&logoColor=white&labelColor=8E2DE2)
+
+</details>
+
+<details>
+<summary><b>Ciencia de datos</b></summary>
+<br>
+
+[![Pandas](https://img.shields.io/badge/Pandas-1b1b1f?style=for-the-badge&logo=pandas&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
+[![NumPy](https://img.shields.io/badge/NumPy-1b1b1f?style=for-the-badge&logo=numpy&logoColor=white&labelColor=8E2DE2)](https://github.com/Antonio-Richaud/Challenge-Robot-Trading)
+[![Jupyter](https://img.shields.io/badge/Jupyter-1b1b1f?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=8E2DE2)](https://jupyter.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1b1b1f?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=8E2DE2)](https://scikit-learn.org/stable/getting_started.html)
+
+</details>
+
+<details>
+<summary><b>Front-end</b></summary>
+<br>
+
+[![HTML5](https://img.shields.io/badge/HTML5-1b1b1f?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/02-html.html)
+![CSS3](https://img.shields.io/badge/CSS3-1b1b1f?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+[![MaterializeCSS](https://img.shields.io/badge/MaterializeCSS-1b1b1f?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)](https://materializecss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-1b1b1f?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud-threejs-portafolio.vercel.app/)
+![React](https://img.shields.io/badge/React-1b1b1f?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+
+</details>
+
+<details>
+<summary><b>Back-end</b></summary>
+<br>
+
+[![Laravel](https://img.shields.io/badge/Laravel-1b1b1f?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)](https://laravel.com/)
+[![Docker](https://img.shields.io/badge/Docker-1b1b1f?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/19-docker.html)
+[![Node.js](https://img.shields.io/badge/Node.js-1b1b1f?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/14-node-js.html)
+![Django](https://img.shields.io/badge/Django-1b1b1f?style=for-the-badge&logo=django&logoColor=white&labelColor=8E2DE2)
+![Sass](https://img.shields.io/badge/Sass-1b1b1f?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
+
+</details>
+
+<details>
+<summary><b>Herramientas y Tecnologías</b></summary>
+<br>
+
+[![GraphQL](https://img.shields.io/badge/GraphQL-1b1b1f?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/16-graphql.html)
+[![Postman](https://img.shields.io/badge/Postman-1b1b1f?style=for-the-badge&logo=postman&logoColor=white&labelColor=8E2DE2)](https://www.postman.com/)
+![GitHub](https://img.shields.io/badge/GitHub-1b1b1f?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![Git](https://img.shields.io/badge/Git-1b1b1f?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+
+</details>
+
+<details>
+<summary><b>Bases de datos</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-1b1b1f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
+![Oracle](https://img.shields.io/badge/Oracle-1b1b1f?style=for-the-badge&logo=oracle&logoColor=white&labelColor=8E2DE2)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1b1b1f?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/23-mongodb.html)
+![Firebase](https://img.shields.io/badge/Firebase-1b1b1f?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+[![SAP](https://img.shields.io/badge/SAP-1b1b1f?style=for-the-badge&logo=sap&logoColor=white&labelColor=8E2DE2)](https://www.sap.com/latinamerica/about/what-is-sap.html)
+[![Salesforce](https://img.shields.io/badge/Salesforce-1b1b1f?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=8E2DE2)](https://www.salesforce.com/mx/?ir=)
+
+</details>
+
+<details>
+<summary><b>Inteligencia Artificial</b></summary>
+<br>
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-1b1b1f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)](https://www.tensorflow.org/?hl=es)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1b1b1f?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-1b1b1f?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)](https://medium.com/@antonio-richaud/el-poder-de-la-inteligencia-artificial-y-el-procesamiento-de-im%C3%A1genes-construyendo-el-futuro-con-65d2e70f4cbf)
+[![GPT](https://img.shields.io/badge/GPT-1b1b1f?style=for-the-badge&logo=openai&logoColor=white&labelColor=8E2DE2)](https://antonio-richaud.com/blog/archivo/publicaciones/24-chatgpt.html)
+
+</details>
+
+<details>
+<summary><b>Cloud</b></summary>
+<br>
+
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1b1b1f?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)](https://www.digitalocean.com/)
+[![Azure](https://img.shields.io/badge/Azure-1b1b1f?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=8E2DE2)](https://azure.microsoft.com/es-mx/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1b1b1f?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=8E2DE2)](https://cloud.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-1b1b1f?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=8E2DE2)](https://aws.amazon.com/es/)
+
+</details>
+
+<details>
+<summary><b>Diseño</b></summary>
+<br>
+
+[![Blender](https://img.shields.io/badge/Blender-1b1b1f?style=for-the-badge&logo=blender&logoColor=white&labelColor=8E2DE2)](https://www.blender.org/)
+[![Figma](https://img.shields.io/badge/Figma-1b1b1f?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)](https://www.figma.com/)
+
+</details>
+
+<details>
+<summary><b>Robótica y Electrónica</b></summary>
+<br>
+
+[![ROS](https://img.shields.io/badge/ROS-1b1b1f?style=for-the-badge&logo=ros&logoColor=white&labelColor=8E2DE2)](https://www.ros.org/)
+![Proteus](https://img.shields.io/badge/⚡%20Proteus-1b1b1f?style=for-the-badge&labelColor=8E2DE2)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1b1b1f?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E2DE2)](https://www.raspberrypi.com/)
+[![Jetson](https://img.shields.io/badge/Jetson-1b1b1f?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7043163977257438470)
+[![Arduino](https://img.shields.io/badge/Arduino-1b1b1f?style=for-the-badge&logo=arduino&logoColor=white&labelColor=8E2DE2)](https://www.tiktok.com/@_antonio_richaud/video/7049363148213685509)
+
+</details>
+
+---
+
+## ❤️ Apoya mi trabajo
+
+<div align="center">
+
+<!-- Reemplaza # con tus enlaces reales a Patreon / PayPal / BuyMeACoffee / Ko-fi -->
+
+<a href="#" target="_blank">
+  <img width="20%" alt="Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+</a>
+<a href="#" target="_blank">
+  <img width="20%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+</a>
+<a href="#" target="_blank">
+  <img width="20%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+</a>
+
+<p>
+  <sub>Lo que entra aquí se reinvierte en proyectos de código abierto, infraestructura y contenido educativo.  
+  O en unos taquitos, siendo honestos 🌮.</sub>
+</p>
+
+</div>
+
+---
+
+## 🐣 Fun fact
+
+> Se puede resolver la pregunta más antigua del mundo con una sola línea de JavaScript.
 
 ```javascript
 // ¿Qué fue primero: el huevo o la gallina?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
-----------------
-
-## Acompletame para un taquito 🥺
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="#" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="#" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
