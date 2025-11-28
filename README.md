@@ -23,7 +23,6 @@
 |[**Inteligencia Artificial**](https://github.com/Antonio-Richaud/Inteligencia-Artificial) | Modelos, prototipos y experimentos de IA: visión artificial, redes neuronales y proyectos con GPUs/Jetson. | Python · TensorFlow · PyTorch · OpenCV |
 |[**Data Science**](https://github.com/Antonio-Richaud/Data-Science) | Proyectos de análisis de datos, series de tiempo, trading algorítmico y datasets inteeresantes. | Python · Pandas · NumPy · Jupyter · scikit-learn |
 |[**Calculadora TI-83 Plus**](https://github.com/Antonio-Richaud/Calculadora-TI83-Plus) | Programas para exprimir la TI-83 Plus. | TI-BASIC · Algoritmos numéricos |
-|[**Proyectos (Hub)**](https://github.com/Antonio-Richaud/Proyectos) | Hub con proyectos, demos, webs y experimentos. | Tecnología variada |
 
 </div>
 
