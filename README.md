@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy un Ingeniero en Electrónica enfocado en:
 
@@ -216,7 +216,7 @@ Mi objetivo es construir soluciones que resuelvan problemas empresariales reales
 
 ---
 
-## 🐣 Fun fact
+## Fun fact
 
 > Se puede resolver la pregunta más antigua del mundo con una sola línea de JavaScript.
 
