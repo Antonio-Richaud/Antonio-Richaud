@@ -15,29 +15,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=820&lines=Desarrollo+software+que+resuelve+problemas+reales;Convierto+datos+en+decisiones;Construyo+experimentos+de+IA+y+rob%C3%B3tica;Exploro+gr%C3%A1ficos+3D+y+sistemas+embebidos" alt="Software, datos, inteligencia artificial, robótica y gráficos 3D" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=820&lines=Construyo+tecnolog%C3%ADa+para+resolver+problemas;Cont%C3%A1ctame+si+tienes+una+idea"
+    alt="Construyo tecnología para resolver problemas. Contáctame si tienes una idea."
+  />
 </p>
 
-## 👋 Hola, soy Antonio
+## Hola, soy Antonio Richaud
 
 Soy **ingeniero en electrónica, desarrollador de software y web, y analista de datos**. Construyo productos digitales, sistemas de información y prototipos que conectan código, inteligencia artificial y hardware.
 
 Me interesa llevar las ideas más allá de la demostración: convertirlas en proyectos funcionales, medibles y bien documentados.
 
-> 🟣 Actualmente trabajo con visión artificial, agentes inteligentes, robótica, programación gráfica y automatización basada en datos.
-
-## 🧰 Tecnologías que llevo al taller
+## Tecnologías que manejo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,threejs,nodejs,php,html,css,mysql,tensorflow,opencv,arduino,raspberrypi,docker,git&perline=8" alt="Python, JavaScript, TypeScript, React, Three.js, Node.js, PHP, HTML, CSS, MySQL, TensorFlow, OpenCV, Arduino, Raspberry Pi, Docker y Git" />
 </p>
 
-## 🚀 Explora lo que estoy construyendo
+## Explora lo que estoy construyendo
 
 Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic en una categoría para abrirla.**
 
 <details>
-<summary><strong>🧠 Inteligencia artificial — agentes, aprendizaje y robótica</strong></summary>
+<summary><strong>Inteligencia artificial</strong></summary>
 
 <br />
 
@@ -51,7 +52,7 @@ Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic e
 </details>
 
 <details>
-<summary><strong>📊 Ciencia de datos — análisis, modelos y decisiones</strong></summary>
+<summary><strong>Ciencia de datos</strong></summary>
 
 <br />
 
@@ -63,7 +64,7 @@ Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic e
 </details>
 
 <details>
-<summary><strong>🎨 Programación gráfica — simulaciones, vectores y mundos 3D</strong></summary>
+<summary><strong>Programación gráfica</strong></summary>
 
 <br />
 
@@ -76,7 +77,7 @@ Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic e
 </details>
 
 <details>
-<summary><strong>🧮 Calculadora TI-83 Plus — programación donde cada byte cuenta</strong></summary>
+<summary><strong>Calculadora TI-83 Plus</strong></summary>
 
 <br />
 
@@ -85,13 +86,3 @@ Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic e
 | [**Calculadora-TI83-Plus**](https://github.com/Antonio-Richaud/Calculadora-TI83-Plus) | Programas y experimentos para explorar las capacidades de la TI-83 Plus. | TI-BASIC · Assembly |
 
 </details>
-
-## ⚙️ Mi forma de trabajar
-
-<p align="center">
-  <strong>Entender el problema</strong> → <strong>construir</strong> → <strong>medir</strong> → <strong>iterar</strong> → <strong>documentar</strong>
-</p>
-
-<p align="center">
-  <sub>Software útil, datos con contexto y experimentos que sí salen del laboratorio.</sub>
-</p>
