@@ -1,69 +1,97 @@
-<h1 align="center">Antonio Richaud</h1>
-
 <p align="center">
-  <strong>Ingeniero en electrónica · Desarrollador de software y web · Analista de datos</strong>
+  <img src="./assets/profile-header.svg" width="100%" alt="Antonio Richaud — Ingeniería, software, datos e inteligencia artificial" />
 </p>
 
 <p align="center">
-  Construyo productos digitales, sistemas de datos y prototipos que conectan software, inteligencia artificial y hardware.
+  <a href="https://antonio-richaud.com/" title="Sitio web"><img src="./assets/site-button.svg" height="46" alt="Sitio web" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/antonio-richaud/" title="LinkedIn"><img src="./assets/social-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/antonio.richaud/" title="Instagram"><img src="./assets/social-instagram.svg" height="46" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@AntonioRichaud/" title="YouTube"><img src="./assets/social-youtube.svg" height="46" alt="YouTube" /></a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@antonio_richaud" title="TikTok"><img src="./assets/social-tiktok.svg" height="46" alt="TikTok" /></a>
 </p>
 
 <p align="center">
-  <a href="https://antonio-richaud.com/">Portafolio</a> ·
-  <a href="https://www.linkedin.com/in/antonio-richaud/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@AntonioRichaud/">YouTube</a> ·
-  <a href="https://www.tiktok.com/@antonio_richaud">TikTok</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=820&lines=Desarrollo+software+que+resuelve+problemas+reales;Convierto+datos+en+decisiones;Construyo+experimentos+de+IA+y+rob%C3%B3tica;Exploro+gr%C3%A1ficos+3D+y+sistemas+embebidos" alt="Software, datos, inteligencia artificial, robótica y gráficos 3D" />
 </p>
 
----
+## 👋 Hola, soy Antonio
 
-## Perfil
+Soy **ingeniero en electrónica, desarrollador de software y web, y analista de datos**. Construyo productos digitales, sistemas de información y prototipos que conectan código, inteligencia artificial y hardware.
 
-Trabajo en el desarrollo de soluciones para problemas reales: aplicaciones web, automatización, análisis de datos, visualización, inteligencia artificial y sistemas que integran software con electrónica.
+Me interesa llevar las ideas más allá de la demostración: convertirlas en proyectos funcionales, medibles y bien documentados.
 
-Me interesa convertir ideas técnicas en proyectos funcionales, comprensibles y bien documentados.
+> 🟣 Actualmente trabajo con visión artificial, agentes inteligentes, robótica, programación gráfica y automatización basada en datos.
 
-## Proyectos
+## 🧰 Tecnologías que llevo al taller
 
-### Inteligencia artificial
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,threejs,nodejs,php,html,css,mysql,tensorflow,opencv,arduino,raspberrypi,docker,git&perline=8" alt="Python, JavaScript, TypeScript, React, Three.js, Node.js, PHP, HTML, CSS, MySQL, TensorFlow, OpenCV, Arduino, Raspberry Pi, Docker y Git" />
+</p>
 
-| Proyecto | Descripción | Tecnologías |
+## 🚀 Explora lo que estoy construyendo
+
+Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic en una categoría para abrirla.**
+
+<details>
+<summary><strong>🧠 Inteligencia artificial — agentes, aprendizaje y robótica</strong></summary>
+
+<br />
+
+| Proyecto | Qué encontrarás | Stack |
 | --- | --- | --- |
-| [**Brazo-robot**](https://github.com/Antonio-Richaud/Brazo-robot) | Plataforma de control para un brazo robótico de seis servos y base para futuras funciones autónomas. | ESP32 · Python · PCA9685 |
+| [**Brazo-robot**](https://github.com/Antonio-Richaud/Brazo-robot) | Control de un brazo robótico de seis servos y una base preparada para funciones autónomas. | ESP32 · Python · PCA9685 |
 | [**IA-juego-snake-rust**](https://github.com/Antonio-Richaud/IA-juego-snake-rust) | Agentes que aprenden a jugar Snake mediante neuroevolución y algoritmos genéticos. | Rust · Macroquad |
-| [**Ciudad3D-IA**](https://github.com/Antonio-Richaud/Ciudad3D-IA) | Ciudad tridimensional para experimentar con agentes, navegación y distintos modelos de decisión. | JavaScript · Three.js · Vite |
-| [**clasificacion-mnist-cnn**](https://github.com/Antonio-Richaud/clasificacion-mnist-cnn) | Clasificación de dígitos escritos a mano mediante una red neuronal convolucional. | Python · TensorFlow · Keras |
+| [**Ciudad3D-IA**](https://github.com/Antonio-Richaud/Ciudad3D-IA) | Una ciudad 3D para experimentar con agentes, navegación y modelos de decisión. | JavaScript · Three.js · Vite |
+| [**clasificacion-mnist-cnn**](https://github.com/Antonio-Richaud/clasificacion-mnist-cnn) | Clasificación de dígitos escritos a mano con una red neuronal convolucional. | Python · TensorFlow · Keras |
 
-### Ciencia de datos
+</details>
 
-| Proyecto | Descripción | Tecnologías |
+<details>
+<summary><strong>📊 Ciencia de datos — análisis, modelos y decisiones</strong></summary>
+
+<br />
+
+| Proyecto | Qué encontrarás | Stack |
 | --- | --- | --- |
-| [**Alura-Datascience-Bootcamp**](https://github.com/Antonio-Richaud/Alura-Datascience-Bootcamp) | Colección organizada de notebooks, análisis y ejercicios de ciencia de datos. | Python · Pandas · Jupyter |
-| [**Trading-project**](https://github.com/Antonio-Richaud/Trading-project) | Prototipos para análisis cuantitativo, indicadores y automatización de estrategias de inversión. | Python · Pandas · scikit-learn |
+| [**Alura-Datascience-Bootcamp**](https://github.com/Antonio-Richaud/Alura-Datascience-Bootcamp) | Notebooks, análisis y ejercicios organizados de ciencia de datos. | Python · Pandas · Jupyter |
+| [**Trading-project**](https://github.com/Antonio-Richaud/Trading-project) | Prototipos para análisis cuantitativo, indicadores y automatización de estrategias. | Python · Pandas · scikit-learn |
 
-### Programación gráfica
+</details>
 
-| Proyecto | Descripción | Tecnologías |
+<details>
+<summary><strong>🎨 Programación gráfica — simulaciones, vectores y mundos 3D</strong></summary>
+
+<br />
+
+| Proyecto | Qué encontrarás | Stack |
 | --- | --- | --- |
-| [**Sol-Tierra-Luna**](https://github.com/Antonio-Richaud/Sol-Tierra-Luna) | Simulación gráfica del sistema Sol–Tierra–Luna. | Programación gráfica · Simulación |
-| [**Vectores**](https://github.com/Antonio-Richaud/Vectores) | Simulación de tres cuerpos con cálculos vectoriales y representación en pantalla. | C++ · Vectores 2D |
-| [**three.js-game**](https://github.com/Antonio-Richaud/three.js-game) | Proyecto experimental para desarrollar y mejorar un videojuego tridimensional. | JavaScript · Three.js |
+| [**Sol-Tierra-Luna**](https://github.com/Antonio-Richaud/Sol-Tierra-Luna) | Una simulación gráfica del sistema Sol–Tierra–Luna. | Programación gráfica · Simulación |
+| [**Vectores**](https://github.com/Antonio-Richaud/Vectores) | Una simulación de tres cuerpos con cálculos vectoriales y representación en pantalla. | C++ · Vectores 2D |
+| [**three.js-game**](https://github.com/Antonio-Richaud/three.js-game) | Un laboratorio para desarrollar y mejorar un videojuego tridimensional. | JavaScript · Three.js |
 
-### Calculadora TI-83 Plus
+</details>
 
-| Proyecto | Descripción | Tecnologías |
+<details>
+<summary><strong>🧮 Calculadora TI-83 Plus — programación donde cada byte cuenta</strong></summary>
+
+<br />
+
+| Proyecto | Qué encontrarás | Stack |
 | --- | --- | --- |
-| [**Calculadora-TI83-Plus**](https://github.com/Antonio-Richaud/Calculadora-TI83-Plus) | Colección de programas y experimentos para explorar las capacidades de la TI-83 Plus. | TI-BASIC · Assembly |
+| [**Calculadora-TI83-Plus**](https://github.com/Antonio-Richaud/Calculadora-TI83-Plus) | Programas y experimentos para explorar las capacidades de la TI-83 Plus. | TI-BASIC · Assembly |
 
-## Áreas de trabajo
+</details>
 
-- Desarrollo de software y aplicaciones web.
-- Análisis, automatización y visualización de datos.
-- Inteligencia artificial, visión computacional y agentes.
-- Programación gráfica, robótica y sistemas embebidos.
+## ⚙️ Mi forma de trabajar
 
-## Contacto
+<p align="center">
+  <strong>Entender el problema</strong> → <strong>construir</strong> → <strong>medir</strong> → <strong>iterar</strong> → <strong>documentar</strong>
+</p>
 
-Puedes consultar mi trabajo y experiencia en [antonio-richaud.com](https://antonio-richaud.com/) o contactarme mediante [LinkedIn](https://www.linkedin.com/in/antonio-richaud/).
-
-También comparto proyectos y contenido técnico en [YouTube](https://www.youtube.com/@AntonioRichaud/) y [TikTok](https://www.tiktok.com/@antonio_richaud).
+<p align="center">
+  <sub>Software útil, datos con contexto y experimentos que sí salen del laboratorio.</sub>
+</p>

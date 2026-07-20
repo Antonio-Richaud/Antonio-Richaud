@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Antonio Richaud</title>
+  <desc id="desc">Ingeniería, software, datos e inteligencia artificial</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#160626"/>
+      <stop offset="0.48" stop-color="#4c1d95"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#e9d5ff" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0b0212" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1060" cy="45" r="220" fill="url(#glow)" opacity=".45"/>
+  <circle cx="135" cy="285" r="180" fill="url(#glow)" opacity=".25"/>
+
+  <g fill="none" stroke="#e9d5ff" stroke-opacity=".35">
+    <ellipse cx="1045" cy="90" rx="115" ry="38" transform="rotate(-18 1045 90)">
+      <animateTransform attributeName="transform" type="rotate" from="-18 1045 90" to="342 1045 90" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1045" cy="90" rx="82" ry="27" transform="rotate(24 1045 90)">
+      <animateTransform attributeName="transform" type="rotate" from="24 1045 90" to="-336 1045 90" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <g fill="#f5e9ff">
+    <circle cx="948" cy="92" r="5">
+      <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1114" cy="41" r="4">
+      <animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1084" cy="128" r="6">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="79" cy="247" r="4">
+      <animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M0 255 C210 195 330 315 540 250 S865 190 1200 245" fill="none" stroke="#d8b4fe" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M0 278 C230 218 355 328 565 270 S900 210 1200 266" fill="none" stroke="#f5d0fe" stroke-opacity=".13" stroke-width="2"/>
+
+  <g text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" filter="url(#shadow)">
+    <text x="600" y="122" fill="#ffffff" font-size="58" font-weight="800" letter-spacing="5">ANTONIO RICHAUD</text>
+    <text x="600" y="172" fill="#e9d5ff" font-size="22" font-weight="600" letter-spacing="4">INGENIERÍA · SOFTWARE · DATOS · IA</text>
+    <rect x="455" y="198" width="290" height="3" rx="2" fill="#d8b4fe"/>
+    <text x="600" y="242" fill="#ffffff" font-size="20" font-weight="400" letter-spacing="1">De la idea al sistema que funciona.</text>
+  </g>
+</svg>
