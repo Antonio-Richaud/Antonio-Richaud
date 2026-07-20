@@ -3,25 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://antonio-richaud.com/" title="Sitio web">
-    <img src="./assets/site-button.svg" height="46" alt="Sitio web" />
-  </a>
+  <a href="https://antonio-richaud.com/" title="Sitio web"><img src="./assets/site-button.svg" height="46" alt="Sitio web" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/antonio-richaud/" title="LinkedIn">
-    <img src="./assets/social-linkedin.svg" height="46" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/antonio-richaud/" title="LinkedIn"><img src="./assets/social-linkedin.svg" height="46" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/antonio.richaud/" title="Instagram">
-    <img src="./assets/social-instagram.svg" height="46" alt="Instagram" />
-  </a>
+  <a href="https://www.instagram.com/antonio.richaud/" title="Instagram"><img src="./assets/social-instagram.svg" height="46" alt="Instagram" /></a>
   &nbsp;
-  <a href="https://www.youtube.com/@AntonioRichaud/" title="YouTube">
-    <img src="./assets/social-youtube.svg" height="46" alt="YouTube" />
-  </a>
+  <a href="https://www.youtube.com/@AntonioRichaud/" title="YouTube"><img src="./assets/social-youtube.svg" height="46" alt="YouTube" /></a>
   &nbsp;
-  <a href="https://www.tiktok.com/@antonio_richaud" title="TikTok">
-    <img src="./assets/social-tiktok.svg" height="46" alt="TikTok" />
-  </a>
+  <a href="https://www.tiktok.com/@antonio_richaud" title="TikTok"><img src="./assets/social-tiktok.svg" height="46" alt="TikTok" /></a>
 </p>
 
 <p align="center">
