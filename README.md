@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Antonio Richaud — Ingeniería, software, datos e inteligencia artificial" />
+  <img src="./assets/profile-header.png" width="100%" alt="Antonio Richaud — Ingeniería, software, datos e inteligencia artificial" />
 </p>
 
 <p align="center">
@@ -25,8 +25,6 @@
 
 Soy **ingeniero en electrónica, desarrollador de software y web, y analista de datos**. Construyo productos digitales, sistemas de información y prototipos que conectan código, inteligencia artificial y hardware.
 
-Me interesa llevar las ideas más allá de la demostración: convertirlas en proyectos funcionales, medibles y bien documentados.
-
 ## Tecnologías que manejo
 
 <p align="center">
@@ -35,7 +33,7 @@ Me interesa llevar las ideas más allá de la demostración: convertirlas en pro
 
 ## Explora lo que estoy construyendo
 
-Cada sección reúne proyectos reales, experimentos y laboratorios. **Haz clic en una categoría para abrirla.**
+**Haz clic en cada categoría para abrirla.**
 
 <details>
 <summary><strong>Inteligencia artificial</strong></summary>
